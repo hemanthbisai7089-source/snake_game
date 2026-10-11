@@ -1,4 +1,4 @@
-const sketch = require("./sketch.js");
+const sketch = require("./sketch2.js");
 
 function loop(world) {
   while (sketch.running()) {
